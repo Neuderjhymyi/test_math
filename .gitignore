@@ -1,2 +1,3 @@
-src/modules/__pycache__/
-src/modules/tests/*.txt
+modules/__pycache__/
+modules/tests/*.txt
+!modules/tests/test3.txt
